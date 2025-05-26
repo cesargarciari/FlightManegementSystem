@@ -1,0 +1,1 @@
+g++ Main.cpp Flight.cpp Seat.cpp Passenger.cpp Displays.cpp -o App
